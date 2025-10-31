@@ -1,0 +1,352 @@
+{
+  "name": "JBNews4U IPA Library",
+  "identifier": "com.jbnews4u.ipalibrary",
+  "sourceURL": "https://sites.google.com/view/jbnews4u/ipa-library",
+  "apps": [
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.jbnews4u.altstore",
+      "developerName": "AltStore",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/AltStore.ipa",
+          "localizedDescription": "AltStore IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "ReProvision",
+      "bundleIdentifier": "com.jbnews4u.reprovision",
+      "developerName": "ReProvision",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/ReProvision.ipa",
+          "localizedDescription": "ReProvision IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "AppCake",
+      "bundleIdentifier": "com.jbnews4u.appcake",
+      "developerName": "AppCake",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Appcake.ipa",
+          "localizedDescription": "AppCake IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "App Installer",
+      "bundleIdentifier": "com.jbnews4u.appinstaller",
+      "developerName": "App Installer",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/App%20Installer.ipa",
+          "localizedDescription": "App Installer IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "TutuBox",
+      "bundleIdentifier": "com.jbnews4u.tutubox",
+      "developerName": "TutuBox",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/TutuBox.ipa",
+          "localizedDescription": "TutuBox IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "AppWeleux",
+      "bundleIdentifier": "com.jbnews4u.appweleux",
+      "developerName": "AppWeleux",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/AppWeleux.ipa",
+          "localizedDescription": "AppWeleux IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "TutuApp",
+      "bundleIdentifier": "com.jbnews4u.tutuapp",
+      "developerName": "TutuApp",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/TutuApp.ipa",
+          "localizedDescription": "TutuApp IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "IPAStore",
+      "bundleIdentifier": "com.jbnews4u.ipastore",
+      "developerName": "IPAStore",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/ipastore.ipa",
+          "localizedDescription": "IPAStore IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "SDSign",
+      "bundleIdentifier": "com.jbnews4u.sdsign",
+      "developerName": "SDSign",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/SDSign.ipa",
+          "localizedDescription": "SDSign IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "com.jbnews4u.gbox",
+      "developerName": "GBox",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/GBox.ipa",
+          "localizedDescription": "GBox IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "com.jbnews4u.esign",
+      "developerName": "ESign",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/ESign.ipa",
+          "localizedDescription": "ESign IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Attractive Places (MovieBoxPro)",
+      "bundleIdentifier": "com.jbnews4u.attractiveplacesmovieboxpro",
+      "developerName": "Attractive Places (MovieBoxPro)",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Attractive%20Places.ipa",
+          "localizedDescription": "Attractive Places (MovieBoxPro) IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Code Editor",
+      "bundleIdentifier": "com.jbnews4u.codeeditor",
+      "developerName": "Code Editor",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Code%20Editor.ipa",
+          "localizedDescription": "Code Editor IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Filza File Manager",
+      "bundleIdentifier": "com.jbnews4u.filzafilemanager",
+      "developerName": "Filza File Manager",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Filza%20File%20Manager.ipa",
+          "localizedDescription": "Filza File Manager IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "NineAnimator",
+      "bundleIdentifier": "com.jbnews4u.nineanimator",
+      "developerName": "NineAnimator",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Nine%20Animator.ipa",
+          "localizedDescription": "NineAnimator IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "PlugToolbox",
+      "bundleIdentifier": "com.jbnews4u.plugtoolbox",
+      "developerName": "PlugToolbox",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/PlugToolbox.ipa",
+          "localizedDescription": "PlugToolbox IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Plug",
+      "bundleIdentifier": "com.jbnews4u.plug",
+      "developerName": "Plug",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Plug.ipa",
+          "localizedDescription": "Plug IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Worlds",
+      "bundleIdentifier": "com.jbnews4u.worlds",
+      "developerName": "Worlds",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/worlds.ipa",
+          "localizedDescription": "Worlds IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "iSSB",
+      "bundleIdentifier": "com.jbnews4u.issb",
+      "developerName": "iSSB",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/iSSB.ipa",
+          "localizedDescription": "iSSB IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "Delta alpha",
+      "bundleIdentifier": "com.jbnews4u.deltaalpha",
+      "developerName": "Delta alpha",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/Delta%20alpha.ipa",
+          "localizedDescription": "Delta alpha IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "EveryCord",
+      "bundleIdentifier": "com.jbnews4u.everycord",
+      "developerName": "EveryCord",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/EveryCord.ipa",
+          "localizedDescription": "EveryCord IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "FlappyBird",
+      "bundleIdentifier": "com.jbnews4u.flappybird",
+      "developerName": "FlappyBird",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/FlappyBird.ipa",
+          "localizedDescription": "FlappyBird IPA from JBNews4U library."
+        }
+      ]
+    },
+    {
+      "name": "AltStore (github redirect)",
+      "bundleIdentifier": "com.jbnews4u.altstoregithubredirect",
+      "developerName": "AltStore (github redirect)",
+      "iconURL": "https://example.com/icons/placeholder.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://github.com/boswe23/Hacker.GitHub.io/raw/master/AltStore.ipa",
+          "localizedDescription": "AltStore (github redirect) IPA from JBNews4U library."
+        }
+      ]
+    }
+  ]
+}
