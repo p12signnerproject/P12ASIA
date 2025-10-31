@@ -1,0 +1,22 @@
+{
+  "name": "JBNews4U IPA Library - ESign",
+  "identifier": "com.jbnews4u.esign.ipalibrary",
+  "sourceURL": "https://sites.google.com/view/jbnews4u/ipa-library",
+  "apps": [
+    {
+      "name": "ESign",
+      "bundleIdentifier": "com.esign.app",
+      "developerName": "ESign",
+      "iconURL": "https://example.com/icons/esign.png",
+      "versions": [
+        {
+          "version": "latest",
+          "date": "2025-10-30",
+          "size": 12345678,
+          "downloadURL": "https://raw.githubusercontent.com/boswe23/Hacker.GitHub.io/master/ESign.ipa",
+          "localizedDescription": "ESign IPA from JBNews4U library."
+        }
+      ]
+    }
+  ]
+}
